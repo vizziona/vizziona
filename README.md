@@ -1,4 +1,4 @@
-![logo](https://github.com/vizziona/vizziona/blob/main/TECH.png)
+![logo](https://github.com/vizziona/vizziona/blob/main/banner.png)
 <h1 align="center">Hello 👋, I'm NDAYISHIMIYE Bonheur</h1>
 <img scr="https://github.com/vizziona/vizziona/blob/main/TECH.png">
 <h3 align="center">Passionate at Transforming World to SuperTechology of Data Transfer in Robust Version.</h3>
