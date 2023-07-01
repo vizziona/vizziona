@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm NDAYISHIMIYE Bonheur</h1>
-<div align="center"><img scr="https://github.com/vizziona/vizziona/blob/main/TECH.png"></div>
+<img scr="https://github.com/vizziona/vizziona/blob/main/TECH.png">
 <h3 align="center">Passionate at Transforming World to SuperTechology of Data Transfer in Robust Version.</h3>
 <img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vizziona&label=Profile%20views&color=0e75b6&style=flat" alt="vizziona" /> </p>
