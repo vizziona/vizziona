@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/vizziona" target="blank"><img src="https://img.shields.io/twitter/follow/vizziona?logo=twitter&style=for-the-badge" alt="vizziona" /></a> </p>
 
-- 🔭 I’m Founder and Owner on Vizziona **Vizziona**
+- 🔭 I’m Founder and Owner on **Vizziona**
 
 - 🌱 I’m currently Grabbing Skills in University of Rwanda **Department of Information Technology**
 
